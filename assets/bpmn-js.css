@@ -115,6 +115,10 @@
   display: inherit;
 }
 
+.djs-popup {
+  min-width: 64px;
+}
+
 [data-popup="align-elements"] .djs-popup-results {
   display: flex;
 }
