@@ -116,7 +116,7 @@
 }
 
 .djs-popup {
-  min-width: 64px;
+  min-width: 44px;
 }
 
 [data-popup="align-elements"] .djs-popup-results {
